@@ -1,15 +1,14 @@
-<div align="center">
+<div>
   <img src="https://media.cnn.com/api/v1/images/stellar/prod/180219103122-zanzibar-and-its-islands-mnemba-a-view-from-the-sky-mnemba-island-lodge.jpg?q=x_0,y_0,h_900,w_1599,c_fill" alt="BPhotos Banner" width="100%" style="border-radius: 10px;">
-
   <h1>Hola, soy Alberto (BPhotos) 🐧</h1>
-  <p><b>SysAdmin Unix | Entusiasta de la Automatización | Aprendiz de Python</b></p>
-  
-  <p>
-    Exploro el mundo desde la terminal, automatizando lo repetitivo y capturando la realidad a través de mi cámara.
-  </p>
-
+  <p><b>Administrador de Sistemas y en mis ratos libres (Desarrollador)</b></p>
   <hr>
-
+  <p>Adminstrador con mas de 10 años de experiencia en el sector, he trabajado con multiples sistemas, Linux (Suse, Debian, Red hat) y con todos ellos he llegado a la misma conclusion: Si tienes que lanzar un comando mas de dos veces, se convierte en una tarea repetitiva y las tareas repetitivas SE AUTOMATIZAN</p>
+  <p> He trabajado en Multinacionales que desarrollaban proyectos de varias compañias conocidas.</p>
+  <hr>
+<p> Actualmente estoy intentando juntar mis dos pasiones, el desarrollo de aplicaiones, y gestion de infraestructuras, junto con la fotografia y el video</p>
+  <p>Por aqui iré compartiendo mis logros y las cosas que vaya desarrollando.</p>
+  <hr>
   <table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
