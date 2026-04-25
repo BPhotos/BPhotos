@@ -11,27 +11,27 @@
   <hr>
 
   <table align="center" border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>💻 Sobre mí</h3>
-        <ul>
-          <li>🔭 Actualmente trabajando como <b>Administrador de Sistemas Unix</b>.</li>
-          <li>🐍 Profundizando en <b>Python</b> y gestión de datos con <b>SQLite</b>.</li>
-          <li>⚙️ Especialista en <b>Shell Scripting</b> y automatización con <b>Ansible</b>.</li>
-          <li>📸 En mis ratos libres, me verás con una cámara en la mano.</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🛠️ Toolbox</h3>
-        <p>
-          <b>Sistemas:</b> Linux/Unix, Bash, Zsh<br>
-          <b>Automatización:</b> Ansible, Crontab<br>
-          <b>Desarrollo:</b> Python, SQLite, Git<br>
-          <b>Otras:</b> Fotografía Digital, Post-procesado
-        </p>
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Perfil Técnico</h3>
+      <ul>
+        <li>🔭 <b>SysAdmin Unix</b> enfocado en la estabilidad y escalabilidad.</li>
+        <li>⚙️ Automatización avanzada con <b>Ansible</b> (Playbooks, Roles y Vault).</li>
+        <li>🐍 Desarrollo de herramientas en <b>Python</b> para extender funcionalidades de sistema.</li>
+        <li>🗄️ Gestión de persistencia local mediante <b>SQLite</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Stack de Automatización</h3>
+      <p>
+        <b>Infrastructure as Code:</b> Ansible<br>
+        <b>Scripting:</b> Python 3.x, Bash, Zsh<br>
+        <b>Bases de Datos:</b> SQLite<br>
+        <b>Entornos:</b> Gestión de servidores Unix/Linux
+      </p>
+    </td>
+  </tr>
+</table>
 
   <hr>
 
@@ -42,10 +42,10 @@
 
   <p>
     <a href="mailto:berts8611@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contactar-blue?style=flat-square&logo=gmail" alt="Email">
+      <img src="https://img.shields.io/badge/Email-Contactar-blue?style=flat-square&logo=gmail" alt="Email" height="35">
     </a>
     <a href="https://github.com/BPhotos">
-      <img src="https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github" alt="GitHub" height="35">
     </a>
   </p>
 </div>
