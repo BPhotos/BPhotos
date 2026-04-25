@@ -1,4 +1,4 @@
-img src="https://media.cnn.com/api/v1/images/stellar/prod/180219103122-zanzibar-and-its-islands-mnemba-a-view-from-the-sky-mnemba-island-lodge.jpg?q=x_0,y_0,h_900,w_1599,c_fill">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/180219103122-zanzibar-and-its-islands-mnemba-a-view-from-the-sky-mnemba-island-lodge.jpg?q=x_0,y_0,h_900,w_1599,c_fill">
 - 👋 Hi, I’m @BPhotos
 - 👀 I’m interested in things like coding 
 - 🌱 I’m currently learning python and Imporving html and css skills 
